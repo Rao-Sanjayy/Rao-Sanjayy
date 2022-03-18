@@ -2,9 +2,9 @@
 
 ### I'm a student pursuing Master's in Data Science from CHRIST (Deemed to be University) Bangalore!!
 
-- 🌱 I’m currently learning Machine Learning and GitHub ofcourse. 👾
-- 👯 I’m looking to collaborate with other working on Data Science.
-- 🥅 2022 Goals: Improve my basic skills, and GitHub profile. 
+- 🌱 I’m currently learning Machine Learning, Google Cloud, Tableau and GitHub ofcourse.
+- 👯 I’m looking to collaborate with others working on Data Science.
+- 🥅 2022 Goals: Strengthen my Python and Machine Learning fundamentals. 
 - ⚡ Fun fact: I'm a wildlife enthusiast 🐾 
 - 👨‍💻 I'm open for internships for Data Scientist, Data Analyst and Data Engineering roles.
 
