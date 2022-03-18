@@ -1,13 +1,14 @@
 # Hey there! I'm Sanjay Rao - aka [Rao-Sanjayy] 👋 
 
-### I'm a Student pursuing Master's in Data Science from CHRIST (Deemed to be University) Bangalore!!
+### I'm a student pursuing Master's in Data Science from CHRIST (Deemed to be University) Bangalore!!
 
 - 🌱 I’m currently learning Machine Learning and GitHub ofcourse. 👾
 - 👯 I’m looking to collaborate with other working on Data Science.
 - 🥅 2022 Goals: Improve my basic skills, and GitHub profile. 
 - ⚡ Fun fact: I'm a wildlife enthusiast 🐾 
+- 👨‍💻 I'm open for internships for Data Scientist, Data Analyst and Data Engineering roles.
 
-Content next in-line: Machine Learning
+> Content next in-line: Machine Learning
 
 ### Connect with me:
 
@@ -31,7 +32,7 @@ Content next in-line: Machine Learning
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
 
-
+<br />
 <br />
 
 <details>
