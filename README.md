@@ -30,7 +30,7 @@
 <img align="left" alt="MatLab" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
-<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
+
 
 <br />
 <br />
