@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm a wildlife enthusiast 🐾 
 - 👨‍💻 I'm open for internships for Data Scientist, Data Analyst and Data Engineering roles.
 
-> Content next in-line: Machine Learning, R Programming
+> Content next in-line: Machine Learning, R Programming, SQL
 
 ### Connect with me:
 
