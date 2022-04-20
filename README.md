@@ -1,6 +1,6 @@
 # Hey there! I'm Sanjay Rao - aka [Rao-Sanjayy] 👋 
 
-### I'm a student pursuing Master's in Data Science from CHRIST (Deemed to be University) Bangalore!!
+### I'm a student pursuing Master's in Data Science from CHRIST (Deemed to be University) Bangalore
 
 - 🌱 I’m currently learning Machine Learning, Google Cloud, Tableau and GitHub ofcourse.
 - 👯 I’m looking to collaborate with others working on Data Science.
