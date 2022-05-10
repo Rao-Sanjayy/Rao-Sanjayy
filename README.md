@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sanjay-srinivasa-rao-b67a771a0/#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sanjay-s-rao04/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sanjay-srinivasa-rao-b67a771a0/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/_sanjay_rao_/#gh-light-mode-only)
