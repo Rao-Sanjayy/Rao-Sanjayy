@@ -22,7 +22,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="amazonwebservices" width="26px" src="https://github.com/devicons/devicon/tree/v2.14.0/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="[https://github.com/devicons/devicon/tree/v2.14.0/icons/amazonwebservices/amazonwebservices-original.svg](https://github.com/devicons/devicon/blob/v2.14.0/icons/amazonwebservices/amazonwebservices-original.svg)" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
