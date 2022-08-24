@@ -21,6 +21,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="amazonwebservices" width="26px" src="https://github.com/devicons/devicon/tree/v2.14.0/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
@@ -30,7 +32,8 @@
 <img align="left" alt="MatLab" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="django" width="26px" src="https://github.com/devicons/devicon/tree/v2.14.0/icons/django/django-original.svg" style="padding-right:10px;" />
+<img align="left" alt="tensorflow" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding-right:10px;" />
 
 <br />
 <br />
@@ -43,7 +46,7 @@
 </details>
 
 [instagram]: https://www.instagram.com/_sanjay_rao_/
-[linkedin]: https://www.linkedin.com/in/sanjay-srinivasa-rao-b67a771a0/
+[linkedin]: https://www.linkedin.com/in/sanjay-s-rao04/
 
 
 <!--
