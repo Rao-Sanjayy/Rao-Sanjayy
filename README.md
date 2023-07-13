@@ -1,12 +1,12 @@
-# Hey there! I'm Sanjay Rao - aka [Rao-Sanjayy] 👋 
+# Hey there! I'm Sanjay S Rao - aka [Rao-Sanjayy] 👋 
 
-### I'm a student pursuing Master's in Data Science from CHRIST (Deemed to be University) Bangalore
+### I'm a Data Science Analyst at Accenture Operations.
 
-- 🌱 I’m currently learning Machine Learning,Tensorflow, AWS, Google Cloud, Tableau and GitHub ofcourse.
+- 🌱 I’m proficient in Machine Learning, Tensorflow, AWS, Google Cloud, Tableau and GitHub ofcourse.
 - 👯 I’m looking to collaborate with others working on Data Science.
-- 🥅 2022 Goals: Strengthen my Python and Machine Learning fundamentals. 
+- 🥅 2023 Goals: Strengthen my Python, Machine Learning, and Deep Learning fundamentals. 
 - ⚡ Fun fact: I'm a wildlife enthusiast 🐾 
-- 👨‍💻 I'm open for internships for Data Scientist, Data Analyst and Data Engineering roles.
+- 👨‍💻 I'm currently exploring NLP and it's power to change our world.
 
 > Content next in-line: Machine Learning, Neural Networks, R Programming, SQL
 
